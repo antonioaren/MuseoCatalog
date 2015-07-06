@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="es.ulpgc.eite.da.catalog.android.generic"
+          android:versionCode="1"
+          android:versionName="1.0">
+
+    <uses-sdk android:minSdkVersion="15"/>
+
+
+    <application android:label="@string/app_generic_catalog"
+                 android:icon="@drawable/app_generic_catalog_logo"
+                 android:theme="@android:style/Theme.Holo.Light.NoActionBar"
+                 android:name=".framework.GenericCatalogSingleton">
+
+        <activity android:name=".category.master.CategoryMasterView">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".category.detail.CategoryDetailView"/>
+        <activity android:name=".product.master.ProductMasterView"/>
+        <activity android:name=".product.detail.ProductDetailView"/>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="lbl_title">20dp</dimen>
+    <dimen name="lbl_subtitle">16dp</dimen>
+    <dimen name="lbl_button">20dp</dimen>
+    <dimen name="txt_field">20dp</dimen>
+    <dimen name="pad_field">8dp</dimen>
+    <dimen name="pad_row">4dp</dimen>
+
+</resources>

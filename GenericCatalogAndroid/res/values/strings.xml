@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_generic_catalog">Generic Catalog</string>
+    <string name="lbl_new">New</string>
+    <string name="cat_master">Category Master</string>
+    <string name="lbl_list">List</string>
+    <string name="lbl_del">Delete</string>
+    <string name="lbl_add">Add</string>
+    <string name="lbl_save">Save</string>
+    <string name="lbl_next">Next</string>
+    <string name="lbl_prev">Previous</string>
+    <string name="pro_master">Product Master</string>
+    <string name="pro_detail">Product Detail</string>
+    <string name="cat_detail">Category Detail</string>
+    <string name="lbl_clear">Clear</string>
+
+
+
+</resources>

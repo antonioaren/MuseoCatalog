@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FrameworkAndroid/FrameworkAndroid.iml" filepath="$PROJECT_DIR$/FrameworkAndroid/FrameworkAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FrameworkCore/FrameworkCore.iml" filepath="$PROJECT_DIR$/FrameworkCore/FrameworkCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericCatalogAndroid/GenericCatalogAndroid.iml" filepath="$PROJECT_DIR$/GenericCatalogAndroid/GenericCatalogAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MuseumCatalogAndroid/MuseumCatalogAndroid.iml" filepath="$PROJECT_DIR$/MuseumCatalogAndroid/MuseumCatalogAndroid.iml" />
+    </modules>
+  </component>
+</project>
